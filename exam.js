@@ -36,6 +36,9 @@
 
         }
     }
+    else{
+        console.log("Please enter the string not numbers")               
+    }
     
 }
 itemPrice("case");

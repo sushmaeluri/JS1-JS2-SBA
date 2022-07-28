@@ -5,7 +5,7 @@
               
                   }
                   else{
-                      console.log("enter proper value");
+                      console.log("enter value in numbers");
                   }
               
               }
